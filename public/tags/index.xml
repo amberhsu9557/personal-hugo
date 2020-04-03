@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
+    <link>http://amberhsu.github.io/tags/</link>
+    <description>Recent content in Tags on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 15 Jul 2018 12:29:40 +0600</lastBuildDate>
+    
+	<atom:link href="http://amberhsu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>inspiration</title>
+      <link>http://amberhsu.github.io/tags/inspiration/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/inspiration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>motivation</title>
+      <link>http://amberhsu.github.io/tags/motivation/</link>
+      <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/motivation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>http://amberhsu.github.io/tags/internet/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>http://amberhsu.github.io/tags/tech/</link>
+      <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>business</title>
+      <link>http://amberhsu.github.io/tags/business/</link>
+      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/business/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>people</title>
+      <link>http://amberhsu.github.io/tags/people/</link>
+      <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>install</title>
+      <link>http://amberhsu.github.io/tags/install/</link>
+      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/install/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://amberhsu.github.io/tags/hugo/</link>
+      <pubDate>Fri, 22 Mar 2002 00:00:00 +0000</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>教學</title>
+      <link>http://amberhsu.github.io/tags/%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Fri, 22 Mar 2002 00:00:00 +0000</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/%E6%95%99%E5%AD%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>部落格</title>
+      <link>http://amberhsu.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
+      <pubDate>Fri, 22 Mar 2002 00:00:00 +0000</pubDate>
+      
+      <guid>http://amberhsu.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
