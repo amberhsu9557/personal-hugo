@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>部落格 on Timer | Responsive Multipurpose Bootstrap Hugo Template</title>
+    <link>http://amberhsu.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/</link>
+    <description>Recent content in 部落格 on Timer | Responsive Multipurpose Bootstrap Hugo Template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Fri, 22 Mar 2002 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://amberhsu.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>用 Hugo 建立部落格 / 網站，每步都有詳細教學</title>
+      <link>http://amberhsu.github.io/blog/new-post/</link>
+      <pubDate>Fri, 22 Mar 2002 00:00:00 +0000</pubDate>
+      
+      <guid>http://amberhsu.github.io/blog/new-post/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
